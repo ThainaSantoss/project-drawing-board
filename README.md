@@ -19,7 +19,7 @@ Bem-vindo ao **Project Drawing Board**, um quadro de desenho interativo criado c
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/project-drawing-board.git
+    git clone https://github.com/ThainaSantoss/project-drawing-board.git
     ```
 
 2. Navegue até o diretório do projeto:
